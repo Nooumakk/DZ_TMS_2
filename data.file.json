@@ -1,1 +1,17 @@
-[{"Name": "Daniel", "Age": "22", "Post": "Developer"}, {"Name": "Anna", "Age": "20", "Post": "Analyst"}]
+[
+ {
+  "Name": "Daniel",
+  "Age": "22",
+  "Post": "Developer"
+ },
+ {
+  "Name": "Anna",
+  "Age": "20",
+  "Post": "Analyst"
+ },
+ {
+  "Name": "Dima",
+  "Age": "22",
+  "Post": "QA"
+ }
+]
